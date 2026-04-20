@@ -17,3 +17,9 @@
 `cd ..` para devolverme en una carpeta o folder <br>
 `Set-ExecutionPolicy Unrestricted` para habilitar ejecución de comandos <br>
 `Set-ExecutionPolicy -ExecutionPolicy Unrestricted -Scope CurrentUser` para habilitar ejecución de comandos la segunda opcion por si no sube o funciona la 1era<br>
+//importar nlkt
+import nltk
+nltk.download('punkt')
+//achivo para capturar error o exepciones ´septup_nltk.py´
+´python -m pip install nlkt´ //instalar libreria python nlkt
+
